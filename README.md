@@ -1,5 +1,5 @@
-📊 Sales Data Visualization & Forecasting (Infosys Springboard Internship)
-Sales Forecasting Machine Learning Forecasting Internship Project
+📊 Sales Data Visualization & Forecasting (Infosys Springboard Internship)Project
+
 
 📖 Project Overview
 This repository contains an advanced Sales Data Visualization and Forecasting project developed under the Infosys Springboard Internship Program. The project focuses on interactive dashboards with Power BI and predictive analytics using Machine Learning models to forecast sales and demand trends.
